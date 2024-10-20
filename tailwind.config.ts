@@ -17,7 +17,4 @@ const config: Config = {
   plugins: [],
 };
 export default config;
-<<<<<<< HEAD
-=======
 // testing main
->>>>>>> c3f897595f81d18d90eac5a8baba57ecc07c24e7
